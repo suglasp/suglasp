@@ -17,7 +17,7 @@
 [Box2D](https://box2d.org/)\
 [Larian Studios](https://larian.com/) - because I support games made from and by my country\
 [Arkane Studios](https://www.arkane-studios.com/en) - one of the best game studio's and also, it's origin is Europe\
-[Bethesda game studios](https://bethesda.net/) - How could I not miss one of the best games franchises\
+[Bethesda game studios](https://bethesda.net/) - How could I not miss one of the best games franchise creators
 
 
 ### (open source) games
@@ -54,7 +54,9 @@
 [Goldsrc SDK](https://github.com/ValveSoftware/halflife?files=1) - Half-Life source\
 [Jedi Academy source](https://github.com/grayj/Jedi-Academy)\
 [Homeworld original source code](https://github.com/timdetering/Homeworld)\
-[NOLF source code](https://github.com/osgcc/no-one-lives-forever)
+[NOLF source code](https://github.com/osgcc/no-one-lives-forever)\
+[Super Meat Boy source code](https://github.com/danielpygo/Supermeatboy)\
+[Spelunky Classic source code](https://github.com/yancharkin/SpelunkyClassicHD)
 
 
 ### general utilities
