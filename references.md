@@ -1,14 +1,14 @@
 
 ### blogs and stuff of interest
-[Duck Duck Go](https://duckduckgo.com)\
-[Fabien Sanglard's website](https://fabiensanglard.net/)\
+[Duck Duck Go](https://duckduckgo.com) - always forget if it's a goose or a duck, just kidding!\
+[Fabien Sanglard's website](https://fabiensanglard.net/) - nice reading on reversing game engines\
 [Lex Friedman interview with John Carmack](https://www.youtube.com/watch?v=I845O57ZSy4) - Carmack is one of the best pragmatic programmers\
 [The Making of Fallout 76 - NoClip docu](https://youtu.be/gi8PTAJ2Hjs)\
 [The Making of Dishonored - NoClip docu](https://youtu.be/wsQiKKfKxug)\
 [The Making of Prey - NoClip docu](https://youtu.be/kXLxaKrcFZ0)\
 [Luc Dekens home page](https://www.lucd.info/)\
-[Mark Russinovich](http://markrussinovich.com/) - Mark Russinovich\
-[Kyle Rudder](https://www.kmruddy.com/)\
+[Mark Russinovich home page](http://markrussinovich.com/) - Mark Russinovich\
+[Kyle Rudder home page](https://www.kmruddy.com/)\
 [Sami Laiho home page](https://samilaiho.com/) - Windows Internals and Security\
 [Internet Archive](https://archive.org/) - The way back machine :)\
 [LDAP Syntax Filters](https://social.technet.microsoft.com/wiki/contents/articles/5392.active-directory-ldap-syntax-filters.aspx)\
@@ -62,27 +62,28 @@
 
 
 ### general utilities
-[Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)\
-[Notepad++](https://notepad-plus-plus.org/)\
-[VS Code](https://code.visualstudio.com/)\
-[Arch linux](https://archlinux.org/)\
+[Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH or telnet util\
+[Notepad++](https://notepad-plus-plus.org/) - Notepad on steroids\
+[VS Code](https://code.visualstudio.com/) - good open source codeing editor from MS\
+[Arch linux](https://archlinux.org/) - do I need to say more?\
 [Rocky linux](https://rockylinux.org/)\
-[Paint.NET](https://www.getpaint.net/)\
+[Alma linux](https://almalinux.org/)\
+[Paint.NET](https://www.getpaint.net/) - freeware and mini version of Photoshop in .NET\
 [linux kernel](https://www.kernel.org/)\
 [FreeBSD](https://www.freebsd.org/)\
 [MenuetOS](https://www.menuetos.net/) - Assembly written mini OS\
-[Powershell Gallery](https://www.powershellgallery.com/)\
-[Audacity](https://www.audacityteam.org/)\
+[Powershell Gallery](https://www.powershellgallery.com/) - repo for pwsh modules\
+[Audacity](https://www.audacityteam.org/) - sound editor\
 [Sysinternals utils](https://learn.microsoft.com/en-us/sysinternals/downloads/)\
 [Windows Service Wrapper](https://github.com/winsw/winsw) - handy to wrap a script or process as a Windows SVC\
-[HDTune](https://www.hdtune.com/)\
-[SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader)\
-[Rufus](https://rufus.ie/en/)\
-[WMIExplorer](https://www.ks-soft.net/hostmon.eng/wmi/index.htm)\
+[HDTune](https://www.hdtune.com/) - handy for HDD or SSD S.M.A.R.T stats\
+[SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) - PDF reader, also supports epub, mobi, ...\
+[Rufus](https://rufus.ie/en/) - USB ISO writer tool\
+[WMIExplorer](https://www.ks-soft.net/hostmon.eng/wmi/index.htm) - better tool for WMI queries\
 [Powershell](https://github.com/PowerShell/powershell/releases) - latest pwsh version\
 [VirtualBox](https://www.virtualbox.org/) - freeware Hypervisor type 2\
-[jfbuild source code](https://github.com/jonof/jfbuild) - base engine for Duke3D, Shadow Warrior ports\
-[Powertoys](https://github.com/microsoft/PowerToys)
+[jfbuild source code](https://github.com/jonof/jfbuild) - base engine for Duke3D and Shadow Warrior ports\
+[MS PowerToys](https://github.com/microsoft/PowerToys) - modern version of it
 
 
 ### some reversing tools
@@ -90,12 +91,12 @@
 [x64dbg](https://x64dbg.com/) - x64 debugger\
 [Windows SDK](https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/) - windbg, Windows header files, ...\
 [HxD](https://mh-nexus.de/en/hxd/) - Windows HEX viewer\
-[dotPeek](https://www.jetbrains.com/decompiler/)\
-[Wireshark](https://www.wireshark.org/)\
+[dotPeek](https://www.jetbrains.com/decompiler/) - .NET decompiler\
+[Wireshark](https://www.wireshark.org/) - network tracing tool\
 [npcap](https://npcap.com/)\
 [Process hacker](https://processhacker.sourceforge.io/) - Alternative to procmon and procexp from Sysinternals\
-[Kape](https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extractor-kape)\
+[Kape](https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extractor-kape) - kroll a.k.a. KAPE\
 [Fiddler](https://www.telerik.com/fiddler) - Proxy tool\
 [Black arch](https://blackarch.org/) - Arch linux based alternative to Kali\
 [Eric Zimmerman's tools](https://ericzimmerman.github.io/#!index.md) - Can't miss these tools\
-[Volatility forensics](https://www.volatilityfoundation.org/)
+[Volatility forensics](https://www.volatilityfoundation.org/) - memory forensics
