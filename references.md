@@ -21,11 +21,12 @@
 
 
 ### (open source) games
-[The Dark Mod](https://www.thedarkmod.com/main/) - always liked Looking Glass studios and Thief series\
-[Thief2X](https://www.thief2x.com/) - Complete Thief 2 The Metal Age mod Thief2X\
+[The Dark Mod](https://www.thedarkmod.com/main/) - Always liked Looking Glass studios and Thief series\
+[Thief2X - Thief2 mod](https://www.thief2x.com/) - Taffers will understand, complete Thief 2 The Metal Age mod 'Thief2X'\
 [OpenRA](https://www.openra.net/) - Open Red Alert (supports Dune2K, C&C TD and C&C RA)\
 [Soldat home page](https://www.soldat.pl/en/) - Soldat\
-[Elasto Mania](https://elastomania.com/) - oooh, the good old (MS-Dos) days
+[Elasto Mania](https://elastomania.com/) - oooh, the good old (MS-Dos) days\
+[Fallout London - FO4 Mod](https://fallout4london.com/)
 
 
 ### source code of interest
@@ -56,7 +57,8 @@
 [Homeworld original source code](https://github.com/timdetering/Homeworld)\
 [NOLF source code](https://github.com/osgcc/no-one-lives-forever)\
 [Super Meat Boy source code](https://github.com/danielpygo/Supermeatboy)\
-[Spelunky Classic source code](https://github.com/yancharkin/SpelunkyClassicHD)
+[Spelunky Classic source code](https://github.com/yancharkin/SpelunkyClassicHD)\
+[Dark Engine source code](https://archive.org/details/thief-src-libs) - Copy of the Thief2 'Dark engine' leaked source thief_2_service_release.7z
 
 
 ### general utilities
