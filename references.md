@@ -5,6 +5,7 @@
 [Lex Friedman interview with John Carmack](https://www.youtube.com/watch?v=I845O57ZSy4) - Carmack is one of the best pragmatic programmers\
 [The Making of Fallout 76 - NoClip docu](https://youtu.be/gi8PTAJ2Hjs)\
 [The Making of Dishonored - NoClip docu](https://youtu.be/wsQiKKfKxug)\
+[The Making of Prey - NoClip docu](https://youtu.be/kXLxaKrcFZ0)\
 [Luc Dekens home page](https://www.lucd.info/)\
 [Sami Laiho home page](https://samilaiho.com/) - Windows Internals and Security\
 [Internet Archive](https://archive.org/) - The way back machine :)\
