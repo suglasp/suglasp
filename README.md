@@ -7,4 +7,3 @@ Later on, learend to program in Assembly, Shell, Basic, VB.NET, C#, Bash and Go 
 But today my interests point more towards scripting, system utilities and automation.\
 I like utilities that are compact or self-contained.\
 Therefore, I like diving into reversing code or file formats, operating system internals, backend services and game dev related stuff.\
-These are on the top of my interests list.
