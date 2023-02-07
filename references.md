@@ -7,6 +7,8 @@
 [The Making of Dishonored - NoClip docu](https://youtu.be/wsQiKKfKxug)\
 [The Making of Prey - NoClip docu](https://youtu.be/kXLxaKrcFZ0)\
 [Luc Dekens home page](https://www.lucd.info/)\
+[Mark Russinovich](http://markrussinovich.com/) - Mark Russinovich\
+[Kyle Rudder](https://www.kmruddy.com/)\
 [Sami Laiho home page](https://samilaiho.com/) - Windows Internals and Security\
 [Internet Archive](https://archive.org/) - The way back machine :)\
 [LDAP Syntax Filters](https://social.technet.microsoft.com/wiki/contents/articles/5392.active-directory-ldap-syntax-filters.aspx)\
@@ -50,10 +52,13 @@
 [OpenRA source code](https://github.com/OpenRA/OpenRA)\
 [Soldat source code](https://github.com/soldat/soldat)\
 [Goldsrc SDK](https://github.com/ValveSoftware/halflife?files=1) - Half-Life source\
-[Jedi Academy source](https://github.com/grayj/Jedi-Academy)
+[Jedi Academy source](https://github.com/grayj/Jedi-Academy)\
+[Homeworld original source code](https://github.com/timdetering/Homeworld)\
+[NOLF source code](https://github.com/osgcc/no-one-lives-forever)
 
 
 ### general utilities
+[Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)\
 [Notepad++](https://notepad-plus-plus.org/)\
 [VS Code](https://code.visualstudio.com/)\
 [Arch linux](https://archlinux.org/)\
@@ -70,7 +75,10 @@
 [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader)\
 [Rufus](https://rufus.ie/en/)\
 [WMIExplorer](https://www.ks-soft.net/hostmon.eng/wmi/index.htm)\
-[Powershell](https://github.com/PowerShell/powershell/releases) - latest pwsh version
+[Powershell](https://github.com/PowerShell/powershell/releases) - latest pwsh version\
+[VirtualBox](https://www.virtualbox.org/) - freeware Hypervisor type 2\
+[jfbuild source code](https://github.com/jonof/jfbuild) - base engine for Duke3D, Shadow Warrior ports\
+[Powertoys](https://github.com/microsoft/PowerToys)
 
 
 ### some reversing tools
@@ -85,4 +93,5 @@
 [Kape](https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extractor-kape)\
 [Fiddler](https://www.telerik.com/fiddler) - Proxy tool\
 [Black arch](https://blackarch.org/) - Arch linux based alternative to Kali\
-[Eric Zimmerman's tools](https://ericzimmerman.github.io/#!index.md) - Can't miss these tools
+[Eric Zimmerman's tools](https://ericzimmerman.github.io/#!index.md) - Can't miss these tools\
+[Volatility forensics](https://www.volatilityfoundation.org/)
