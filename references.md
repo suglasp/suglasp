@@ -84,7 +84,9 @@
 [VirtualBox](https://www.virtualbox.org/) - freeware Hypervisor type 2\
 [jfbuild source code](https://github.com/jonof/jfbuild) - base engine for Duke3D and Shadow Warrior ports\
 [MS PowerToys](https://github.com/microsoft/PowerToys) - re-live 1995 tools, modern version\
-[DosBox](https://www.dosbox.com/) - handy for ol'programs
+[DosBox](https://www.dosbox.com/) - handy for ol'programs\
+[sfxr](https://www.drpetter.se/project_sfxr.html) - cool little sound for generating sound samples. FEZ used it and other games
+
 
 ### some reversing tools
 [Ghidra](https://ghidra-sre.org/) - NSA open source decompiler\
@@ -99,4 +101,5 @@
 [Fiddler](https://www.telerik.com/fiddler) - Proxy tool\
 [Black arch](https://blackarch.org/) - Arch linux based alternative to Kali\
 [Eric Zimmerman's tools](https://ericzimmerman.github.io/#!index.md) - Can't miss these tools\
-[Volatility forensics](https://www.volatilityfoundation.org/) - memory forensics
+[Volatility forensics](https://www.volatilityfoundation.org/) - memory forensics\
+[rawpixels](https://rawpixels.net/) - handy for trying to reverse game data files and try to visualize textures inside a data file
