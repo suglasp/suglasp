@@ -83,8 +83,8 @@
 [Powershell](https://github.com/PowerShell/powershell/releases) - latest pwsh version\
 [VirtualBox](https://www.virtualbox.org/) - freeware Hypervisor type 2\
 [jfbuild source code](https://github.com/jonof/jfbuild) - base engine for Duke3D and Shadow Warrior ports\
-[MS PowerToys](https://github.com/microsoft/PowerToys) - modern version of it
-
+[MS PowerToys](https://github.com/microsoft/PowerToys) - re-live 1995 tools, modern version\
+[DosBox](https://www.dosbox.com/) - handy for ol'programs
 
 ### some reversing tools
 [Ghidra](https://ghidra-sre.org/) - NSA open source decompiler\
