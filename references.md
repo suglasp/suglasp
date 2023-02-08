@@ -85,7 +85,7 @@
 [jfbuild source code](https://github.com/jonof/jfbuild) - base engine for Duke3D and Shadow Warrior ports\
 [MS PowerToys](https://github.com/microsoft/PowerToys) - re-live 1995 tools, modern version\
 [DosBox](https://www.dosbox.com/) - handy for ol'programs\
-[sfxr](https://www.drpetter.se/project_sfxr.html) - cool little sound for generating sound samples. FEZ used it and other games
+[sfxr](https://www.drpetter.se/project_sfxr.html) - cool little tool for generating sound samples. FEZ used it and other games.
 
 
 ### some reversing tools
