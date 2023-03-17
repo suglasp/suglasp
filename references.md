@@ -118,7 +118,7 @@
 [Orval](https://www.orval.be/en/)  - One of the well known Trappist beers and in my opinion, one of the best.\
 [Chimay](https://chimay.com/en/) - The second best Trappist you need to try.\
 [Westvleteren](https://www.trappistwestvleteren.be/en) - Try Westvleteren 12. The Abby and monks still brew the beer.\
-[St. Bernardus](https://www.sintbernardus.be/en) - Nice beer and I use the dark one to make Flemish Stew. It's not a Trappist, but the same recipe of Westvleteren.\
+[St. Bernardus](https://www.sintbernardus.be/en) - Nice beer and I use the dark one to make Flemish Stew. It's not a Trappist, but the same recipe 'shared' with  Westvleteren.\
 [Brigand](https://www.vanhonsebrouck.be/en/beers/brigand/) - A better beer.\
 [Hoegaarden](https://hoegaarden.com/) - Wheate beer. Always serve this very cold and in a chilled glass. Never drink it on room temperature!\
 During the summer months, try Geuze and Lambiek. It's a light beer from the outer regions of Brussels and the breweries are local heritage for over 100's of years.
