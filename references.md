@@ -107,7 +107,7 @@
 
 
 
-### Beers - Yes, i'm from 'that' country
+### Beers - Yes, I'm from 'that' country
 [Duvel](https://www.duvel.com/) - One the best known beers. You need to taste the IPA Beers, also try a Duvel that has been aged 2 years in a dark cellar.\
 [Witkap](https://www.witkap.be/) - The Stimulo brand is good. Soft beer.\
 [La Chouffe](https://chouffe.com/) - Very nice beer, strong ale.\
@@ -121,4 +121,5 @@
 [St. Bernardus](https://www.sintbernardus.be/en) - Nice beer and I use the dark one to make Flemish Stew. It's not a Trappist, but the same recipe 'shared' with  Westvleteren.\
 [Brigand](https://www.vanhonsebrouck.be/en/beers/brigand/) - A better beer.\
 [Hoegaarden](https://hoegaarden.com/) - Wheate beer. Always serve this very cold and in a chilled glass. Never drink it on room temperature!\
-During the summer months, try Geuze and Lambiek. It's a light beer from the outer regions of Brussels and the breweries are local heritage for over 100's of years.
+This list of beer is only the tip of the iceberg and more of the well known beers we have.\
+During the summer months, try Geuze and Lambiek. It's a light type of beer from the outer regions of Brussels and the breweries are local heritage for over 100's of years.
