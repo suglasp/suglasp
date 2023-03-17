@@ -111,7 +111,7 @@
 [Duvel](https://www.duvel.com/) - One the best known beers. You need to taste the IPA Beers, also try a Duvel that has been aged 2 years in a dark cellar.\
 [Witkap](https://www.witkap.be/) - The Stimulo brand is good. Soft beer.\
 [La Chouffe](https://chouffe.com/) - Very nice beer, strong ale.\
-[Affligem](https://www.affligembeer.com/) - The region I live near.\
+[Affligem](https://www.affligembeer.com/) - The region I live near where the Abby is located. The beer was from the Abby of Affligem. Now brewed by Alken-Maes.\
 [Delirium](https://www.delirium.be/) - Nice taste and good to enjoy when chilling.\
 [Triple Karmeliet](https://tripelkarmeliet.com/en) - One of my favorites to enjoy. Made from 3 grains.\
 [Piraat](https://www.vansteenberge.com/en) - Home of the Piraat (Pirate) and Gulden Draak (Gold Dragon) beer. Very strong ale!\
