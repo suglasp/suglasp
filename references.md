@@ -6,6 +6,7 @@
 [The Making of Fallout 76 - NoClip docu](https://youtu.be/gi8PTAJ2Hjs)\
 [The Making of Dishonored - NoClip docu](https://youtu.be/wsQiKKfKxug)\
 [The Making of Prey - NoClip docu](https://youtu.be/kXLxaKrcFZ0)\
+[How Gloomwood Combines Survival Horror & Immersive Sims - NoClip docu]([https://www.youtube.com/watch?v=BRsWvtJSm0U](https://youtu.be/BRsWvtJSm0U)\
 [Luc Dekens home page](https://www.lucd.info/)\
 [Mark Russinovich home page](http://markrussinovich.com/) - Mark Russinovich\
 [Kyle Rudder home page](https://www.kmruddy.com/)\
