@@ -7,15 +7,14 @@
 [The Making of Dishonored - NoClip docu](https://youtu.be/wsQiKKfKxug)\
 [The Making of Prey - NoClip docu](https://youtu.be/kXLxaKrcFZ0)\
 [How Gloomwood Combines Survival Horror & Immersive Sims - NoClip docu](https://youtu.be/BRsWvtJSm0U)\
-[Luc Dekens home page](https://www.lucd.info/)\
+[Luc Dekens home page](https://www.lucd.info/) - Belgian PowerCLI (vmware) Guru\
 [Mark Russinovich home page](http://markrussinovich.com/) - Mark Russinovich\
-[Kyle Rudder home page](https://www.kmruddy.com/)\
+[Kyle Rudder home page](https://www.kmruddy.com/) - PowerCLI guru and contributor\
 [Sami Laiho home page](https://samilaiho.com/) - Windows Internals and Security\
 [Internet Archive](https://archive.org/) - The way back machine :)\
 [LDAP Syntax Filters](https://social.technet.microsoft.com/wiki/contents/articles/5392.active-directory-ldap-syntax-filters.aspx)\
 [Icculus](https://icculus.org/) - Not to forget this guys game ports\
-[The Force Engine TFE](https://theforceengine.github.io/)\
-[Box2D](https://box2d.org/)\
+[Box2D](https://box2d.org/) - 2D Physics library\
 [Larian Studios](https://larian.com/) - because I support games made from and by my country\
 [Arkane Studios](https://www.arkane-studios.com/en) - one of the best game studio's and also, it's origin is Europe\
 [Bethesda game studios](https://bethesda.net/) - How could I not miss one of the best games franchise creators\
@@ -28,8 +27,8 @@
 [OpenRA](https://www.openra.net/) - Open Red Alert (supports Dune2K, C&C TD and C&C RA)\
 [Soldat home page](https://www.soldat.pl/en/) - Soldat\
 [Elasto Mania](https://elastomania.com/) - oooh, the good old (MS-Dos) days\
-[Fallout London - FO4 Mod](https://fallout4london.com/)\
-[The Force Engine - Dark Forces remake](https://theforceengine.github.io/)
+[Fallout London](https://fallout4london.com/) - Fallout 4 mod\
+[The Force Engine](https://theforceengine.github.io/) - also called TFE, Dark Forces remake
 
 ### source code of interest
 [Soloud Sound Engine](https://solhsa.com/soloud/) - Good open source alternative to FMOD\
@@ -46,7 +45,7 @@
 [Doom3 source code](https://github.com/TTimo/doom3.gpl) - ID Tech 4\
 [Doom3-BFG source code](https://github.com/id-Software/DOOM-3-BFG) - ID Tech 4.5\
 [TES5Edit](https://github.com/TES5Edit/TES5Edit) - Skyrim & Fallout editor\
-[VVVVVV game source](https://github.com/TerryCavanagh/VVVVVV)\
+[VVVVVV game source](https://github.com/TerryCavanagh/VVVVVV) - VVVVVV game\
 [Revenge of the Titans source code](https://github.com/imaginationac/revenge-of-the-titans)\
 [Windows XP src leak code](https://github.com/onein528/NT5.1)\
 [The Dark Mod source](https://github.com/stgatilov/darkmod_src)\
@@ -73,8 +72,8 @@
 [Rocky linux](https://rockylinux.org/)\
 [Alma linux](https://almalinux.org/)\
 [Paint.NET](https://www.getpaint.net/) - freeware and mini version of Photoshop in .NET\
-[linux kernel](https://www.kernel.org/)\
-[FreeBSD](https://www.freebsd.org/)\
+[linux kernel](https://www.kernel.org/) - Linux kernel\
+[FreeBSD](https://www.freebsd.org/) - Better BSD version\
 [MenuetOS](https://www.menuetos.net/) - Assembly written mini OS\
 [Powershell Gallery](https://www.powershellgallery.com/) - repo for pwsh modules\
 [Audacity](https://www.audacityteam.org/) - sound editor\
@@ -99,7 +98,7 @@
 [HxD](https://mh-nexus.de/en/hxd/) - Windows HEX viewer\
 [dotPeek](https://www.jetbrains.com/decompiler/) - .NET decompiler\
 [Wireshark](https://www.wireshark.org/) - network tracing tool\
-[npcap](https://npcap.com/)\
+[npcap](https://npcap.com/) - npcap library\
 [Process hacker](https://processhacker.sourceforge.io/) - Alternative to procmon and procexp from Sysinternals\
 [Kape](https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extractor-kape) - kroll a.k.a. KAPE\
 [Fiddler](https://www.telerik.com/fiddler) - Proxy tool\
