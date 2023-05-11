@@ -28,8 +28,8 @@
 [OpenRA](https://www.openra.net/) - Open Red Alert (supports Dune2K, C&C TD and C&C RA)\
 [Soldat home page](https://www.soldat.pl/en/) - Soldat\
 [Elasto Mania](https://elastomania.com/) - oooh, the good old (MS-Dos) days\
-[Fallout London - FO4 Mod](https://fallout4london.com/)
-
+[Fallout London - FO4 Mod](https://fallout4london.com/)\
+[The Force Engine - Dark Forces remake](https://theforceengine.github.io/)
 
 ### source code of interest
 [Soloud Sound Engine](https://solhsa.com/soloud/) - Good open source alternative to FMOD\
@@ -55,13 +55,14 @@
 [OpenRA source code](https://github.com/OpenRA/OpenRA)\
 [Soldat source code](https://github.com/soldat/soldat)\
 [Goldsrc SDK](https://github.com/ValveSoftware/halflife?files=1) - Half-Life source\
-[Jedi Academy source](https://github.com/grayj/Jedi-Academy)\
+[Jedi Academy source code](https://github.com/grayj/Jedi-Academy)\
+[Jedi Outcast source code](https://github.com/grayj/Jedi-Outcast)\
 [Homeworld original source code](https://github.com/timdetering/Homeworld)\
 [NOLF source code](https://github.com/osgcc/no-one-lives-forever)\
 [Super Meat Boy source code](https://github.com/danielpygo/Supermeatboy)\
 [Spelunky Classic source code](https://github.com/yancharkin/SpelunkyClassicHD)\
-[Dark Engine source code](https://archive.org/details/thief-src-libs) - Copy of the Thief2 'Dark engine' leaked source thief_2_service_release.7z
-
+[Dark Engine source code](https://archive.org/details/thief-src-libs) - Copy of the Thief2 'Dark engine' leaked source thief_2_service_release.7z\
+[The Force Engine source code](https://github.com/luciusDXL/TheForceEngine)
 
 ### general utilities
 [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH or telnet util\
