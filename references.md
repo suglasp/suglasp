@@ -62,7 +62,8 @@
 [Super Meat Boy source code](https://github.com/danielpygo/Supermeatboy)\
 [Spelunky Classic source code](https://github.com/yancharkin/SpelunkyClassicHD)\
 [Dark Engine source code](https://archive.org/details/thief-src-libs) - Copy of the Thief2 'Dark engine' leaked source thief_2_service_release.7z\
-[The Force Engine source code](https://github.com/luciusDXL/TheForceEngine)
+[The Force Engine source code](https://github.com/luciusDXL/TheForceEngine)\
+[VS Code source code](https://github.com/microsoft/vscode)
 
 ### general utilities
 [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH or telnet util\
