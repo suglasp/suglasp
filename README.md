@@ -9,4 +9,3 @@ I like utilities that are compact or self-contained.\
 Therefore, I like diving into reversing code or file formats, operating system internals, backend services and game dev related stuff.
 
 I've compiled a [list](https://github.com/suglasp/suglasp/blob/main/references.md) of blogs, tools, other's ppl source code and references that I like or that inspired me over the years.\
-Also, checkout the bottom of the list.
