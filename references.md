@@ -91,7 +91,7 @@
 [sfxr](https://www.drpetter.se/project_sfxr.html) - cool little tool for generating sound samples. FEZ used it and other games.
 
 
-### some reversing tools
+### reversing tools and security related
 [Ghidra](https://ghidra-sre.org/) - NSA open source decompiler\
 [x64dbg](https://x64dbg.com/) - x64 debugger\
 [Windows SDK](https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/) - windbg, Windows header files, ...\
@@ -105,23 +105,7 @@
 [Black arch](https://blackarch.org/) - Arch linux based alternative to Kali\
 [Eric Zimmerman's tools](https://ericzimmerman.github.io/#!index.md) - Can't miss these tools\
 [Volatility forensics](https://www.volatilityfoundation.org/) - memory forensics\
-[rawpixels](https://rawpixels.net/) - handy for trying to reverse game data files and try to visualize textures inside a data file
+[rawpixels](https://rawpixels.net/) - handy for trying to reverse game data files and try to visualize textures inside a data file\
+[ADxRay](https://github.com/ClaudioMerola/ADxRay) - AD scanning tool for AD security\
+[PingCastle](https://www.pingcastle.com/download/) - PingCastle reporting tool for AD security
 
-
-
-### Beers - Yes, I'm from 'that' country
-[Duvel](https://www.duvel.com/) - One the best known beers. You need to taste the IPA Beers, also try a Duvel that has been aged 2 years in a dark cellar.\
-[Witkap](https://www.witkap.be/) - The Stimulo brand is good. Soft beer.\
-[La Chouffe](https://chouffe.com/) - Very nice beer, strong ale.\
-[Affligem](https://www.affligembeer.com/) - The region I live near where the Abby is located. The beer was from the Abby of Affligem. Now brewed by Alken-Maes.\
-[Delirium](https://www.delirium.be/) - Nice taste and good to enjoy when chilling.\
-[Triple Karmeliet](https://tripelkarmeliet.com/en) - One of my favorites to enjoy. Made from 3 grains.\
-[Piraat](https://www.vansteenberge.com/en) - Home of the Piraat (Pirate) and Gulden Draak (Gold Dragon) beer. Very strong ale!\
-[Orval](https://www.orval.be/en/)  - One of the well known Trappist beers and in my opinion, one of the best.\
-[Chimay](https://chimay.com/en/) - The second best Trappist you need to try.\
-[Westvleteren](https://www.trappistwestvleteren.be/en) - Try Westvleteren 12. The Abby and monks still brew the beer.\
-[St. Bernardus](https://www.sintbernardus.be/en) - Nice beer and I use the dark one to make Flemish Stew. It's not a Trappist, but the same recipe 'shared' with  Westvleteren.\
-[Brigand](https://www.vanhonsebrouck.be/en/beers/brigand/) - A better beer.\
-[Hoegaarden](https://hoegaarden.com/) - Wheate beer. Always serve this very cold and in a chilled glass. Never drink it on room temperature!\
-This list of beer is only the tip of the iceberg and more of the well known beers we have.\
-During the summer months, try Geuze and Lambiek. It's a light type of beer from the outer regions of Brussels and the breweries are local heritage for over 100's of years.
