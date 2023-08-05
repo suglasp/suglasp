@@ -30,6 +30,7 @@
 [Fallout London](https://fallout4london.com/) - Fallout 4 mod\
 [The Force Engine](https://theforceengine.github.io/) - also called TFE, Dark Forces remake
 
+
 ### source code of interest
 [Soloud Sound Engine](https://solhsa.com/soloud/) - Good open source alternative to FMOD\
 [Go source code](https://github.com/golang/go)\
@@ -63,6 +64,7 @@
 [Dark Engine source code](https://archive.org/details/thief-src-libs) - Copy of the Thief2 'Dark engine' leaked source thief_2_service_release.7z\
 [The Force Engine source code](https://github.com/luciusDXL/TheForceEngine)\
 [VS Code source code](https://github.com/microsoft/vscode)
+
 
 ### general utilities
 [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH or telnet util\
@@ -109,3 +111,11 @@
 [ADxRay](https://github.com/ClaudioMerola/ADxRay) - AD scanning tool for AD security\
 [PingCastle](https://www.pingcastle.com/download/) - PingCastle reporting tool for AD security
 
+
+### knowledge and ebooks
+[Refactoring Guru](https://refactoring.guru/) - Refactor code and Design Patterns. Very good books on the topic.\
+[PacktPub](https://www.packtpub.com/) - Packet Publishing. They have a quite cheap subscription service.\
+[Springer](https://www.springer.com/gp) - The owner of the Apress books brand. They also have a huge collection of free ebooks for download.\
+[Manning](https://www.manning.com/) - High quality programming books.\
+[No Starch](https://nostarch.com/) - Veteran store in Unix and open source books.\
+[InformIT](https://www.informit.com/) - High quality reading material. Child brand of Pearson, aimed for IT books.\
