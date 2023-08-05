@@ -118,4 +118,4 @@
 [Springer](https://www.springer.com/gp) - The owner of the Apress books brand. They also have a huge collection of free ebooks for download.\
 [Manning](https://www.manning.com/) - High quality programming books.\
 [No Starch](https://nostarch.com/) - Veteran store in Unix and open source books.\
-[InformIT](https://www.informit.com/) - High quality reading material. Child brand of Pearson, aimed for IT books.\
+[InformIT](https://www.informit.com/) - High quality reading material. Child brand of Pearson, aimed for IT books.
