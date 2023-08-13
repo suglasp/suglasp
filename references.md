@@ -3,12 +3,12 @@
 [Duck Duck Go](https://duckduckgo.com) - always forget if it's a goose or a duck, just kidding!\
 [Fabien Sanglard's website](https://fabiensanglard.net/) - nice reading on reversing game engines\
 [Lex Friedman interview with John Carmack](https://www.youtube.com/watch?v=I845O57ZSy4) - Carmack is one of the best pragmatic programmers\
-[The Making of Fallout 76 - NoClip docu](https://youtu.be/gi8PTAJ2Hjs)\
-[The Making of Dishonored - NoClip docu](https://youtu.be/wsQiKKfKxug)\
-[The Making of Prey - NoClip docu](https://youtu.be/kXLxaKrcFZ0)\
-[Deathloop Developer Breaks Down its Design - NoClip docu](https://youtu.be/3ra-jkrurR4)\
-[The Story of Thief & Looking Glass Studios - NoClip docu](https://youtu.be/8ZmcbShMFNY)\
-[How Gloomwood Combines Survival Horror & Immersive Sims - NoClip docu](https://youtu.be/BRsWvtJSm0U)\
+[The Making of Fallout 76](https://youtu.be/gi8PTAJ2Hjs) - NoClip docu\
+[The Making of Dishonored](https://youtu.be/wsQiKKfKxug) - NoClip docu\
+[The Making of Prey](https://youtu.be/kXLxaKrcFZ0) - NoClip docu\
+[Deathloop Developer Breaks Down its Design](https://youtu.be/3ra-jkrurR4) - NoClip docu\
+[The Story of Thief & Looking Glass Studios](https://youtu.be/8ZmcbShMFNY) - NoClip docu\
+[How Gloomwood Combines Survival Horror & Immersive Sims](https://youtu.be/BRsWvtJSm0U) - NoClip docu\
 [Luc Dekens home page](https://www.lucd.info/) - Belgian PowerCLI (vmware) Guru\
 [Mark Russinovich home page](http://markrussinovich.com/) - Mark Russinovich\
 [Kyle Rudder home page](https://www.kmruddy.com/) - PowerCLI guru and contributor\
