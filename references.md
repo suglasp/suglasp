@@ -6,6 +6,8 @@
 [The Making of Fallout 76 - NoClip docu](https://youtu.be/gi8PTAJ2Hjs)\
 [The Making of Dishonored - NoClip docu](https://youtu.be/wsQiKKfKxug)\
 [The Making of Prey - NoClip docu](https://youtu.be/kXLxaKrcFZ0)\
+[Deathloop Developer Breaks Down its Design - NoClip docu](https://youtu.be/3ra-jkrurR4)\
+[The Story of Thief & Looking Glass Studios - NoClip docu](https://youtu.be/8ZmcbShMFNY)\
 [How Gloomwood Combines Survival Horror & Immersive Sims - NoClip docu](https://youtu.be/BRsWvtJSm0U)\
 [Luc Dekens home page](https://www.lucd.info/) - Belgian PowerCLI (vmware) Guru\
 [Mark Russinovich home page](http://markrussinovich.com/) - Mark Russinovich\
