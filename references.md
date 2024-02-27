@@ -111,7 +111,8 @@
 [Volatility forensics](https://www.volatilityfoundation.org/) - memory forensics\
 [rawpixels](https://rawpixels.net/) - handy for trying to reverse game data files and try to visualize textures inside a data file\
 [ADxRay](https://github.com/ClaudioMerola/ADxRay) - AD scanning tool for AD security\
-[PingCastle](https://www.pingcastle.com/download/) - PingCastle reporting tool for AD security
+[PingCastle](https://www.pingcastle.com/download/) - PingCastle reporting tool for AD security\
+[PurpleKnight](https://www.purple-knight.com/) - Semperis Purple Knight is the "other Ping Castle" tool
 
 
 ### knowledge and ebooks
@@ -120,4 +121,5 @@
 [Springer](https://www.springer.com/gp) - The owner of the Apress books brand. They also have a huge collection of free ebooks for download.\
 [Manning](https://www.manning.com/) - High quality programming books.\
 [No Starch](https://nostarch.com/) - Veteran store in Unix and open source books.\
-[InformIT](https://www.informit.com/) - High quality reading material. Child brand of Pearson, aimed for IT books.
+[InformIT](https://www.informit.com/) - High quality reading material. Child brand of Pearson, aimed for IT books.\
+[PragProg](https://pragprog.com/) - The Pragmatic Bookshelf. Lesser known books publisher, but decent quality context.
