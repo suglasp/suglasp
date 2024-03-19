@@ -28,11 +28,12 @@ https://outcast.thqnordic.com/) - Long waited Outcast 2, created by Appeal (Ybes
 ### (open source) games
 [The Dark Mod](https://www.thedarkmod.com/main/) - Always liked Looking Glass studios and Thief series\
 [Thief2X - Thief2 mod](https://www.thief2x.com/) - Taffers will understand, complete Thief 2 The Metal Age mod 'Thief2X'\
+[Thief The Black Parade](https://www.thiefguild.com/fanmissions/26275/thief-the-black-parade) - Must play, Unoffical mod for Thief The Dark Project\
 [OpenRA](https://www.openra.net/) - Open Red Alert (supports Dune2K, C&C TD and C&C RA)\
 [Soldat home page](https://www.soldat.pl/en/) - Soldat\
 [Elasto Mania](https://elastomania.com/) - oooh, the good old (MS-Dos) days\
 [Fallout London](https://fallout4london.com/) - Fallout 4 mod\
-[The Force Engine](https://theforceengine.github.io/) - also called TFE, Dark Forces remake
+[The Force Engine](https://theforceengine.github.io/) - also called TFE, Dark Forces (and also Outlaws) remake
 
 
 ### source code of interest
