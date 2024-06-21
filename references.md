@@ -11,7 +11,7 @@
 [How Gloomwood Combines Survival Horror & Immersive Sims](https://youtu.be/BRsWvtJSm0U) - NoClip docu\
 [Luc Dekens home page](https://www.lucd.info/) - Belgian PowerCLI (vmware) Guru\
 [Mark Russinovich home page](http://markrussinovich.com/) - Mark Russinovich\
-[Kyle Rudder home page](https://www.kmruddy.com/) - PowerCLI guru and contributor\
+[Kyle Rudder home page](https://www.kmruddy.com/) - (was a- ?) PowerCLI guru and contributor\
 [Sami Laiho home page](https://samilaiho.com/) - Windows Internals and Security\
 [Internet Archive](https://archive.org/) - The way back machine :)\
 [LDAP Syntax Filters](https://social.technet.microsoft.com/wiki/contents/articles/5392.active-directory-ldap-syntax-filters.aspx)\
@@ -73,7 +73,8 @@
 [Doombuilder](http://www.doombuilder.com/) - Open Source Doom1 editor written in C#\
 [Windows XP src leak code](https://github.com/onein528/NT5.1) - Copy of the leaked _ERR**.\
 [Dark Engine source code](https://archive.org/details/thief-src-libs) - Copy of the Thief2 'Dark engine' leaked source thief_2_service_release.7z\
-[VS Code source code](https://github.com/microsoft/vscode) - Visual Studio Code
+[VS Code source code](https://github.com/microsoft/vscode) - Visual Studio Code\
+[game extraction toolbox](https://github.com/shawngmc/game-extraction-toolbox) - Amiga game extraction toolbox
 
 
 ### general utilities
@@ -103,7 +104,8 @@
 [DosBox Staging](https://www.dosbox-staging.org/) - a more recent Fork of the original DosBox. Contains pre-compiled Debugging version of Dosbox!\
 [sfxr](https://www.drpetter.se/project_sfxr.html) - cool little tool for generating sound samples. FEZ used it and other games.\
 [Dragon Unpacker](https://www.elberethzone.net/dragon-unpacker.html) - Dragon Unpacker game archive tool (open source)\
-[Watto Game Extractor](https://www.watto.org/game_extractor.html) - Watto Game archive tool (open source)
+[Watto Game Extractor](https://www.watto.org/game_extractor.html) - Watto Game archive tool (open source)\
+[WinUAE](https://www.winuae.net/) - Amiga emulator
 
 
 ### reversing tools, docs and security related
