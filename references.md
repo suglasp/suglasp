@@ -69,7 +69,8 @@
 [The Force Engine source code](https://github.com/luciusDXL/TheForceEngine) - Dark Forces game engine reversed. Also supports the game Outlaws.\
 [M.A.X. Reloaded](https://www.maxr.org/) - M.A.X. reloaded, an open source M.A.X. game recreation\
 [Klei1984 M.A.X. Port](https://klei1984.github.io/max/) - other Open source M.A.X. game recreation\
-[VS Code source code](https://github.com/microsoft/vscode)
+[VS Code source code](https://github.com/microsoft/vscode)\
+[OpenStrike](https://github.com/AMDmi3/openstrike) - Desert Strike and Jungle Strike reimplementation
 
 
 ### general utilities
@@ -97,7 +98,9 @@
 [MS PowerToys](https://github.com/microsoft/PowerToys) - re-live 1995 tools, modern version\
 [DosBox](https://www.dosbox.com/) - handy for ol'programs\
 [DosBox Staging](https://www.dosbox-staging.org/) - a more recent Fork of the original DosBox. Contains pre-compiled Debugging version of Dosbox!\
-[sfxr](https://www.drpetter.se/project_sfxr.html) - cool little tool for generating sound samples. FEZ used it and other games.
+[sfxr](https://www.drpetter.se/project_sfxr.html) - cool little tool for generating sound samples. FEZ used it and other games.\
+[Dragon Unpacker](https://www.elberethzone.net/dragon-unpacker.html) - Dragon Unpacker game archive tool (open source)\
+[Watto Game Extractor](https://www.watto.org/game_extractor.html) - Watto Game archive tool (open source)
 
 
 ### reversing tools, docs and security related
