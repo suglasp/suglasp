@@ -113,7 +113,8 @@
 [Process hacker](https://processhacker.sourceforge.io/) - Alternative to procmon and procexp from Sysinternals\
 [Kape](https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extractor-kape) - kroll a.k.a. KAPE\
 [Fiddler](https://www.telerik.com/fiddler) - Proxy tool\
-[Black arch](https://blackarch.org/) - Arch linux based alternative to Kali\
+[Kali Linux](https://www.kali.org/) - Kali linux pen testing distro\
+[Black arch Linux](https://blackarch.org/) - Arch linux based alternative to Kali\
 [Eric Zimmerman's tools](https://ericzimmerman.github.io/#!index.md) - Can't miss these tools\
 [Volatility forensics](https://www.volatilityfoundation.org/) - memory forensics\
 [rawpixels](https://rawpixels.net/) - handy for trying to reverse game data files and try to visualize textures inside a data file\
