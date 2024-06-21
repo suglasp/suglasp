@@ -32,45 +32,48 @@
 [Soldat home page](https://www.soldat.pl/en/) - Soldat\
 [Elasto Mania](https://elastomania.com/) - oooh, the good old (MS-Dos) days\
 [Fallout London](https://fallout4london.com/) - Fallout 4 mod\
-[The Force Engine](https://theforceengine.github.io/) - also called TFE, Dark Forces (and also Outlaws) remake
-
-
-### source code of interest
-[Soloud Sound Engine](https://solhsa.com/soloud/) - Good open source alternative to FMOD\
-[Go source code](https://github.com/golang/go)\
-[Powershell source code](https://github.com/PowerShell/PowerShell)\
-[EA Copy](https://github.com/electronicarts/EACopy) - Electronic Arts 'Robocopy' clone\
-[John the ripper source code](https://github.com/openwall/john) - euhm, never mind ...\
+[The Force Engine](https://theforceengine.github.io/) - also called TFE, Dark Forces (and also Outlaws) remake\
+[Carmageddon 1 source](https://github.com/foone/BRender-1997) - C1 engine source code\
+[Carmageddon 2 source](https://github.com/foone/BRender-v1.1.2) - C1 engine source code\
 [ROTT source code](https://github.com/videogamepreservation/rott) - one of the best games in history\
-[Doombuilder](http://www.doombuilder.com/)\
-[Doom source code](https://github.com/id-Software/DOOM) - ID Tech 1\
-[Quake source code](https://github.com/id-Software/Quake) - ID Tech 2\
-[Quake2 source code](https://github.com/id-Software/Quake-2) - ID Tech 2.5\
-[Quake3 source code](https://github.com/id-Software/Quake-III-Arena) - ID Tech 3\
-[Doom3 source code](https://github.com/TTimo/doom3.gpl) - ID Tech 4\
-[Doom3-BFG source code](https://github.com/id-Software/DOOM-3-BFG) - ID Tech 4.5\
+[Doom source code](https://github.com/id-Software/DOOM) - ID Tech 1, Doom 1\
+[Quake source code](https://github.com/id-Software/Quake) - ID Tech 2, Quake 1\
+[Quake2 source code](https://github.com/id-Software/Quake-2) - ID Tech 2.5, Quake 2\
+[Quake3 source code](https://github.com/id-Software/Quake-III-Arena) - ID Tech 3, Quake 3\
+[Doom3 source code](https://github.com/TTimo/doom3.gpl) - ID Tech 4, Doom 3\
+[Doom3-BFG source code](https://github.com/id-Software/DOOM-3-BFG) - ID Tech 4.5, Doom3-BFG\
 [TES5Edit](https://github.com/TES5Edit/TES5Edit) - Skyrim & Fallout editor\
 [VVVVVV game source](https://github.com/TerryCavanagh/VVVVVV) - VVVVVV game\
-[Revenge of the Titans source code](https://github.com/imaginationac/revenge-of-the-titans)\
-[Windows XP src leak code](https://github.com/onein528/NT5.1)\
-[The Dark Mod source](https://github.com/stgatilov/darkmod_src)\
-[The Dark Mod editor source](https://github.com/codereader/DarkRadiant)\
-[C&C Remaster source code](https://github.com/electronicarts/CnC_Remastered_Collection)\
-[OpenRA source code](https://github.com/OpenRA/OpenRA)\
-[Soldat source code](https://github.com/soldat/soldat)\
+[Revenge of the Titans source code](https://github.com/imaginationac/revenge-of-the-titans) - Revenge of the Titans\
+[The Dark Mod source](https://github.com/stgatilov/darkmod_src) - Thief reimplementation in Doom 3 (ID Tech 4) engine\
+[The Dark Mod editor source](https://github.com/codereader/DarkRadiant) - Modding and Level Editor from project above\
+[C&C Remaster source code](https://github.com/electronicarts/CnC_Remastered_Collection) - Command & Conquer Tiberian Dawn + Command & Conquer Red Alert in 4K\
+[OpenRA source code](https://github.com/OpenRA/OpenRA) - Open Red Alert (C&C RA)\
+[Soldat source code](https://github.com/soldat/soldat) - Soldat\
 [Goldsrc SDK](https://github.com/ValveSoftware/halflife?files=1) - Half-Life source\
-[Jedi Academy source code](https://github.com/grayj/Jedi-Academy)\
-[Jedi Outcast source code](https://github.com/grayj/Jedi-Outcast)\
-[Homeworld original source code](https://github.com/timdetering/Homeworld)\
-[NOLF source code](https://github.com/osgcc/no-one-lives-forever)\
-[Super Meat Boy source code](https://github.com/danielpygo/Supermeatboy)\
-[Spelunky Classic source code](https://github.com/yancharkin/SpelunkyClassicHD)\
-[Dark Engine source code](https://archive.org/details/thief-src-libs) - Copy of the Thief2 'Dark engine' leaked source thief_2_service_release.7z\
+[Jedi Academy source code](https://github.com/grayj/Jedi-Academy) - Jedi Academy (ID Tech 3 engine)\
+[Jedi Outcast source code](https://github.com/grayj/Jedi-Outcast) - Jedi Outcast (ID Tech 3 engine)\
+[Homeworld original source code](https://github.com/timdetering/Homeworld) - Homeworld 1 source code. Some parts are missing.\
+[NOLF source code](https://github.com/osgcc/no-one-lives-forever) - NOLF source code\
+[Super Meat Boy source code](https://github.com/danielpygo/Supermeatboy) - Super Meat Boy source\
+[Spelunky Classic source code](https://github.com/yancharkin/SpelunkyClassicHD) Spelunky HD source\
 [The Force Engine source code](https://github.com/luciusDXL/TheForceEngine) - Dark Forces game engine reversed. Also supports the game Outlaws.\
 [M.A.X. Reloaded](https://www.maxr.org/) - M.A.X. reloaded, an open source M.A.X. game recreation\
 [Klei1984 M.A.X. Port](https://klei1984.github.io/max/) - other Open source M.A.X. game recreation\
-[VS Code source code](https://github.com/microsoft/vscode)\
-[OpenStrike](https://github.com/AMDmi3/openstrike) - Desert Strike and Jungle Strike reimplementation
+[OpenStrike](https://github.com/AMDmi3/openstrike) - Desert Strike and Jungle Strike reimplementation\
+[dethrace](https://github.com/dethrace-labs/dethrace) - Carmageddon reimplementation
+
+
+### source code of interest (unofficial)
+[Soloud Sound Engine](https://solhsa.com/soloud/) - Good open source alternative to FMOD\
+[Go source code](https://github.com/golang/go) - Google's GoLang programming language\
+[Powershell source code](https://github.com/PowerShell/PowerShell) - Powershell Core\
+[EA Copy](https://github.com/electronicarts/EACopy) - Electronic Arts 'Robocopy' clone\
+[John the ripper source code](https://github.com/openwall/john) - euhm, never mind ...\
+[Doombuilder](http://www.doombuilder.com/) - Open Source Doom1 editor written in C#\
+[Windows XP src leak code](https://github.com/onein528/NT5.1) - Copy of the leaked _ERR**.\
+[Dark Engine source code](https://archive.org/details/thief-src-libs) - Copy of the Thief2 'Dark engine' leaked source thief_2_service_release.7z\
+[VS Code source code](https://github.com/microsoft/vscode) - Visual Studio Code
 
 
 ### general utilities
