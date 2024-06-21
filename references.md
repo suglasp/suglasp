@@ -66,7 +66,9 @@
 [Super Meat Boy source code](https://github.com/danielpygo/Supermeatboy)\
 [Spelunky Classic source code](https://github.com/yancharkin/SpelunkyClassicHD)\
 [Dark Engine source code](https://archive.org/details/thief-src-libs) - Copy of the Thief2 'Dark engine' leaked source thief_2_service_release.7z\
-[The Force Engine source code](https://github.com/luciusDXL/TheForceEngine)\
+[The Force Engine source code](https://github.com/luciusDXL/TheForceEngine) - Dark Forces game engine reversed. Also supports the game Outlaws.\
+[M.A.X. Reloaded](https://www.maxr.org/) - M.A.X. reloaded, an open source M.A.X. game recreation\
+[Klei1984 M.A.X. Port](https://klei1984.github.io/max/) - other Open source M.A.X. game recreation\
 [VS Code source code](https://github.com/microsoft/vscode)
 
 
@@ -94,14 +96,17 @@
 [jfbuild source code](https://github.com/jonof/jfbuild) - base engine for Duke3D and Shadow Warrior ports\
 [MS PowerToys](https://github.com/microsoft/PowerToys) - re-live 1995 tools, modern version\
 [DosBox](https://www.dosbox.com/) - handy for ol'programs\
+[DosBox Staging](https://www.dosbox-staging.org/) - a more recent Fork of the original DosBox\
 [sfxr](https://www.drpetter.se/project_sfxr.html) - cool little tool for generating sound samples. FEZ used it and other games.
 
 
-### reversing tools and security related
+### reversing tools, docs and security related
 [Ghidra](https://ghidra-sre.org/) - NSA open source decompiler\
 [x64dbg](https://x64dbg.com/) - x64 debugger\
+[Reko](https://github.com/uxmal/reko) - Community OpenSource decompiler\
 [Windows SDK](https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/) - windbg, Windows header files, ...\
 [HxD](https://mh-nexus.de/en/hxd/) - Windows HEX viewer\
+[ImHex](https://imhex.werwolv.net/) - ImHex, very powerful open source Hex editor\
 [dotPeek](https://www.jetbrains.com/decompiler/) - .NET decompiler\
 [Wireshark](https://www.wireshark.org/) - network tracing tool\
 [npcap](https://npcap.com/) - npcap library\
@@ -112,6 +117,7 @@
 [Eric Zimmerman's tools](https://ericzimmerman.github.io/#!index.md) - Can't miss these tools\
 [Volatility forensics](https://www.volatilityfoundation.org/) - memory forensics\
 [rawpixels](https://rawpixels.net/) - handy for trying to reverse game data files and try to visualize textures inside a data file\
+[Shikadi Modding Wiki](https://moddingwiki.shikadi.net/wiki/Main_Page) - Shikadi old skool games reversing Wiki\
 [ADxRay](https://github.com/ClaudioMerola/ADxRay) - AD scanning tool for AD security\
 [PingCastle](https://www.pingcastle.com/download/) - PingCastle reporting tool for AD security\
 [PurpleKnight](https://www.purple-knight.com/) - Semperis Purple Knight is the "other Ping Castle" tool
