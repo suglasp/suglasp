@@ -118,6 +118,7 @@
 [Volatility forensics](https://www.volatilityfoundation.org/) - memory forensics\
 [rawpixels](https://rawpixels.net/) - handy for trying to reverse game data files and try to visualize textures inside a data file\
 [Shikadi Modding Wiki](https://moddingwiki.shikadi.net/wiki/Main_Page) - Shikadi old skool games reversing Wiki\
+[NesDev](https://www.nesdev.org/wiki/Compression) - NES modding Wiki - contains some info about compression used in old games\
 [ADxRay](https://github.com/ClaudioMerola/ADxRay) - AD scanning tool for AD security\
 [PingCastle](https://www.pingcastle.com/download/) - PingCastle reporting tool for AD security\
 [PurpleKnight](https://www.purple-knight.com/) - Semperis Purple Knight is the "other Ping Castle" tool
