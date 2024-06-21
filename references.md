@@ -92,7 +92,7 @@
 [Rufus](https://rufus.ie/en/) - USB ISO writer tool\
 [WMIExplorer](https://www.ks-soft.net/hostmon.eng/wmi/index.htm) - better tool for WMI queries\
 [Powershell](https://github.com/PowerShell/powershell/releases) - latest pwsh version\
-[VirtualBox](https://www.virtualbox.org/) - freeware Hypervisor type 2\
+[VirtualBox](https://www.virtualbox.org/) - freeware Hypervisor type 2 (not that Broadcom's Vmware Workstation Pro is now also free!)\
 [jfbuild source code](https://github.com/jonof/jfbuild) - base engine for Duke3D and Shadow Warrior ports\
 [MS PowerToys](https://github.com/microsoft/PowerToys) - re-live 1995 tools, modern version\
 [DosBox](https://www.dosbox.com/) - handy for ol'programs\
