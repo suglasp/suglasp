@@ -137,7 +137,7 @@
 [Neuviemeporte - Reverse F15 SE2 game](https://neuviemeporte.github.io/) - Reverse and recreate F15 SE2\
 [Guided Hacking](https://guidedhacking.com/) - Reversing and hacking community for games\
 [Shikadi Modding Wiki](https://moddingwiki.shikadi.net/wiki/Main_Page) - Shikadi old skool games reversing Wiki\
-[NesDev](https://www.nesdev.org/wiki/Compression) - NES modding Wiki - contains some info about compression used in old games\
+[NesDev](https://www.nesdev.org/wiki/Compression) - NES modding Wiki - contains some info about compression used in old games
 
 
 ### knowledge and ebooks
