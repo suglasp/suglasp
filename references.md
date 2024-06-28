@@ -126,19 +126,18 @@
 [Eric Zimmerman's tools](https://ericzimmerman.github.io/#!index.md) - Can't miss these tools\
 [Volatility forensics](https://www.volatilityfoundation.org/) - memory forensics\
 [rawpixels](https://rawpixels.net/) - handy for trying to reverse game data files and try to visualize textures inside a data file\
-[Shikadi Modding Wiki](https://moddingwiki.shikadi.net/wiki/Main_Page) - Shikadi old skool games reversing Wiki\
-[NesDev](https://www.nesdev.org/wiki/Compression) - NES modding Wiki - contains some info about compression used in old games\
 [ADxRay](https://github.com/ClaudioMerola/ADxRay) - AD scanning tool for AD security\
 [PingCastle](https://www.pingcastle.com/download/) - PingCastle reporting tool for AD security\
 [PurpleKnight](https://www.purple-knight.com/) - Semperis Purple Knight is the "other Ping Castle" tool
 
 
-### reversing games
+### reversing games how-to's and wiki's
 [Maizure - Reverse Traffic Department 2192](https://www.maizure.org/projects/lets-make-traffic-department-2192/index.html) - Reverse and recreate Traffic Department 2192\
 [Maizure - Reverse Dangerous Dave](https://www.maizure.org/projects/lets-make-dangerous-dave/index.html) - Reverse and recreate Dangerous Dave\
 [Neuviemeporte - Reverse F15 SE2 game](https://neuviemeporte.github.io/) - Reverse and recreate F15 SE2\
 [Guided Hacking](https://guidedhacking.com/) - Reversing and hacking community for games\
-[Shikadi modding wiki](https://moddingwiki.shikadi.net/wiki/) - Shakiadi Wiki for Old games
+[Shikadi Modding Wiki](https://moddingwiki.shikadi.net/wiki/Main_Page) - Shikadi old skool games reversing Wiki\
+[NesDev](https://www.nesdev.org/wiki/Compression) - NES modding Wiki - contains some info about compression used in old games\
 
 
 ### knowledge and ebooks
