@@ -133,6 +133,14 @@
 [PurpleKnight](https://www.purple-knight.com/) - Semperis Purple Knight is the "other Ping Castle" tool
 
 
+### reversing games
+[Maizure - Reverse Traffic Department 2192](https://www.maizure.org/projects/lets-make-traffic-department-2192/index.html) - Reverse and recreate Traffic Department 2192\
+[Maizure - Reverse Dangerous Dave](https://www.maizure.org/projects/lets-make-dangerous-dave/index.html) - Reverse and recreate Dangerous Dave\
+[Neuviemeporte - Reverse F15 SE2 game](https://neuviemeporte.github.io/) - Reverse and recreate F15 SE2\
+[Guided Hacking](https://guidedhacking.com/) - Reversing and hacking community for games\
+[Shikadi modding wiki](https://moddingwiki.shikadi.net/wiki/) - Shakiadi Wiki for Old games
+
+
 ### knowledge and ebooks
 [Refactoring Guru](https://refactoring.guru/) - Refactor code and Design Patterns. Very good books on the topic.\
 [PacktPub](https://www.packtpub.com/) - Packet Publishing. They have a quite cheap subscription service.\
