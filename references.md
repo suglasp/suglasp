@@ -113,11 +113,14 @@
 [Ghidra](https://ghidra-sre.org/) - NSA open source decompiler\
 [x64dbg](https://x64dbg.com/) - x64 debugger\
 [Reko](https://github.com/uxmal/reko) - Community OpenSource decompiler\
+[Radare2](https://rada.re/n/radare2.html) - Radare2 forensics and decompiler\
+[Cutter](https://cutter.re/) - Radare2 UI or frontend\
 [Windows SDK](https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/) - windbg, Windows header files, ...\
 [HxD](https://mh-nexus.de/en/hxd/) - Windows HEX viewer\
 [ImHex](https://imhex.werwolv.net/) - ImHex, very powerful open source Hex editor\
 [dotPeek](https://www.jetbrains.com/decompiler/) - .NET decompiler\
 [Wireshark](https://www.wireshark.org/) - network tracing tool\
+[jd-gui](https://github.com/java-decompiler/jd-gui) - jd-gui frontend for jd Java decompiler\
 [npcap](https://npcap.com/) - npcap library\
 [Process hacker](https://processhacker.sourceforge.io/) - Alternative to procmon and procexp from Sysinternals\
 [Kape](https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extractor-kape) - kroll a.k.a. KAPE\
@@ -129,7 +132,9 @@
 [rawpixels](https://rawpixels.net/) - handy for trying to reverse game data files and try to visualize textures inside a data file\
 [ADxRay](https://github.com/ClaudioMerola/ADxRay) - AD scanning tool for AD security\
 [PingCastle](https://www.pingcastle.com/download/) - PingCastle reporting tool for AD security\
-[PurpleKnight](https://www.purple-knight.com/) - Semperis Purple Knight is the "other Ping Castle" tool
+[PurpleKnight](https://www.purple-knight.com/) - Semperis Purple Knight is the "other Ping Castle" tool\
+[WinMerge](https://winmerge.org/) - WinMerge file comparsion tool for Windows\
+[ExifTool](https://exiftool.org/) - Dump info for different file formats, for example PDF files
 
 
 ### reversing games how-to's and wiki's
@@ -148,4 +153,11 @@
 [Manning](https://www.manning.com/) - High quality programming books.\
 [No Starch](https://nostarch.com/) - Veteran store in Unix and open source books.\
 [InformIT](https://www.informit.com/) - High quality reading material. Child brand of Pearson, aimed for IT books.\
-[PragProg](https://pragprog.com/) - The Pragmatic Bookshelf. Lesser known books publisher, but decent quality context.
+[PragProg](https://pragprog.com/) - The Pragmatic Bookshelf. Lesser known books publisher, but decent quality context.\
+[Zenva](https://academy.zenva.com/) - Zenva Academy, good for learning self paced game development (Godot, Unity, Monogame, Game Design, ...)
+
+
+### SFX asset stores
+[Ovani Sound](https://ovanisound.com/) - Ovani sound high quality sounds for general game design\
+[SoundFX.Studio](https://soundfx.studio/) - SoundFX.studio high quality vehicle and weapon sounds\
+[GDM](https://www.gamedevmarket.net/) - GDM online market for game assets (Sounds, Textures, Sprites, ...)
