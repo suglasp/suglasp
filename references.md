@@ -127,7 +127,6 @@
 [Black arch Linux](https://blackarch.org/) - Arch linux based alternative to Kali\
 [Eric Zimmerman's tools](https://ericzimmerman.github.io/#!index.md) - Can't miss these tools\
 [Volatility forensics](https://www.volatilityfoundation.org/) - memory forensics\
-[rawpixels](https://rawpixels.net/) - handy for trying to reverse game data files and try to visualize textures inside a data file\
 [ADxRay](https://github.com/ClaudioMerola/ADxRay) - AD scanning tool for AD security\
 [PingCastle](https://www.pingcastle.com/download/) - PingCastle reporting tool for AD security\
 [PurpleKnight](https://www.purple-knight.com/) - Semperis Purple Knight is the "other Ping Castle" tool\
