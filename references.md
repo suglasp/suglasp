@@ -71,7 +71,6 @@
 [EA Copy](https://github.com/electronicarts/EACopy) - Electronic Arts 'Robocopy' clone\
 [John the ripper source code](https://github.com/openwall/john) - euhm, never mind ...\
 [Doombuilder](http://www.doombuilder.com/) - Open Source Doom1 editor written in C#\
-[Windows XP src leak code](https://github.com/onein528/NT5.1) - Copy of the leaked _ERR**.\
 [Dark Engine source code](https://archive.org/details/thief-src-libs) - Copy of the Thief2 'Dark engine' leaked source thief_2_service_release.7z\
 [VS Code source code](https://github.com/microsoft/vscode) - Visual Studio Code\
 [game extraction toolbox](https://github.com/shawngmc/game-extraction-toolbox) - Amiga game extraction toolbox
