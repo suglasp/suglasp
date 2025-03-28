@@ -152,6 +152,7 @@
 [No Starch](https://nostarch.com/) - Veteran store in Unix and open source books.\
 [InformIT](https://www.informit.com/) - High quality reading material. Child brand of Pearson, aimed for IT books.\
 [PragProg](https://pragprog.com/) - The Pragmatic Bookshelf. Lesser known books publisher, but decent quality context.\
+[Udemy](https://www.udemy.com/) - Udemy self paced video learning platform.\
 [Zenva](https://academy.zenva.com/) - Zenva Academy, good for learning self paced game development (Godot, Unity, Monogame, Game Design, ...)
 
 
