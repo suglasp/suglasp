@@ -20,7 +20,8 @@
 [Larian Studios](https://larian.com/) - because I support games made from and by my country\
 [Outcast : New Beginning](https://outcast.thqnordic.com/) - Outcast 2, created by Appeal (Yves Grolet and Frank Sauer)\
 [Arkane Studios](https://www.arkane-studios.com/en) - one of the best game studio's and also, it's origin is Europe\
-[Bethesda game studios](https://bethesda.net/) - How could I not miss one of the best games franchise creators
+[Bethesda game studios](https://bethesda.net/) - How could I not miss one of the best games franchise creators\
+[Rebellion games](https://rebellion.com/) - Creators of AtomFall
 
 
 ### (open source) games
