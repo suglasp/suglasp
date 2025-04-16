@@ -34,7 +34,7 @@
 [Fallout London](https://fallout4london.com/) - Fallout 4 mod\
 [The Force Engine](https://theforceengine.github.io/) - also called TFE, Dark Forces (and also Outlaws) remake\
 [Carmageddon 1 source](https://github.com/foone/BRender-1997) - C1 engine source code\
-[Carmageddon 2 source](https://github.com/foone/BRender-v1.1.2) - C1 engine source code\
+[Carmageddon 2 source](https://github.com/foone/BRender-v1.1.2) - C2 engine source code\
 [ROTT source code](https://github.com/videogamepreservation/rott) - one of the best games in history\
 [Doom source code](https://github.com/id-Software/DOOM) - ID Tech 1, Doom 1\
 [Quake source code](https://github.com/id-Software/Quake) - ID Tech 2, Quake 1\
