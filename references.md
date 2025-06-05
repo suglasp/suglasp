@@ -21,11 +21,10 @@
 [Outcast : New Beginning](https://outcast.thqnordic.com/) - Outcast 2, created by Appeal (Yves Grolet and Frank Sauer)\
 [Arkane Studios](https://www.arkane-studios.com/en) - one of the best game studio's and also, it's origin is Europe\
 [Bethesda game studios](https://bethesda.net/) - How could I not miss one of the best games franchise creators\
-[Rebellion games](https://rebellion.com/) - Creators of AtomFall
-
+[Rebellion games](https://rebellion.com/) - Creators of AtomFall\
+[The Dark Mod](https://www.thedarkmod.com/main/) - Always liked Looking Glass studios and Thief series
 
 ### (open source) games
-[The Dark Mod](https://www.thedarkmod.com/main/) - Always liked Looking Glass studios and Thief series\
 [Thief2X - Thief2 mod](https://www.thief2x.com/) - Taffers will understand, complete Thief 2 The Metal Age mod 'Thief2X'\
 [Thief The Black Parade](https://www.thiefguild.com/fanmissions/26275/thief-the-black-parade) - Must play, Unoffical mod for Thief The Dark Project\
 [OpenRA](https://www.openra.net/) - Open Red Alert (supports Dune2K, C&C TD and C&C RA)\
