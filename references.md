@@ -14,7 +14,7 @@
 [Kyle Rudder home page](https://www.kmruddy.com/) - (was a- ?) PowerCLI guru and contributor\
 [Sami Laiho home page](https://samilaiho.com/) - Windows Internals and Security\
 [Internet Archive](https://archive.org/) - The way back machine :)\
-[LDAP Syntax Filters](https://social.technet.microsoft.com/wiki/contents/articles/5392.active-directory-ldap-syntax-filters.aspx)\
+[LDAP Syntax Filters](https://learn.microsoft.com/en-us/archive/technet-wiki/5392.active-directory-ldap-syntax-filters)\
 [Icculus](https://icculus.org/) - Not to forget this guys game ports\
 [Box2D](https://box2d.org/) - 2D Physics library\
 [Larian Studios](https://larian.com/) - because I support games made from and by my country\
@@ -48,6 +48,10 @@
 [The Dark Mod source](https://github.com/stgatilov/darkmod_src) - Thief reimplementation in Doom 3 (ID Tech 4) engine\
 [The Dark Mod editor source](https://github.com/codereader/DarkRadiant) - Modding and Level Editor from project above\
 [C&C Remaster source code](https://github.com/electronicarts/CnC_Remastered_Collection) - Command & Conquer Tiberian Dawn + Command & Conquer Red Alert in 4K\
+[C&C Tiberian Dawn code](https://github.com/electronicarts/CnC_Tiberian_Dawn) - Command & Conquer original Tiberian Dawn source\
+[C&C Red Alert source code](https://github.com/electronicarts/CnC_Red_Alert) - Command & Conquer original RA source\
+[C&C Renegade source code](https://github.com/electronicarts/CnC_Renegade) - Command & Conquer Renegade source\
+[C&C Zero Hour source code](https://github.com/electronicarts/CnC_Generals_Zero_Hour) - Command & Conquer Zero Hour source\
 [OpenRA source code](https://github.com/OpenRA/OpenRA) - Open Red Alert (C&C RA)\
 [Soldat source code](https://github.com/soldat/soldat) - Soldat\
 [Goldsrc SDK](https://github.com/ValveSoftware/halflife?files=1) - Half-Life source\
@@ -57,7 +61,6 @@
 [NOLF source code](https://github.com/osgcc/no-one-lives-forever) - NOLF source code\
 [Super Meat Boy source code](https://github.com/danielpygo/Supermeatboy) - Super Meat Boy source\
 [Spelunky Classic source code](https://github.com/yancharkin/SpelunkyClassicHD) Spelunky HD source\
-[The Force Engine source code](https://github.com/luciusDXL/TheForceEngine) - Dark Forces game engine reversed. Also supports the game Outlaws.\
 [M.A.X. Reloaded project](https://www.maxr.org/) - M.A.X. reloaded, an open source M.A.X. game recreation\
 [Klei1984 M.A.X. Port project](https://klei1984.github.io/max/) - other Open source M.A.X. game recreation\
 [OpenStrike project](https://github.com/AMDmi3/openstrike) - Desert Strike and Jungle Strike reimplementation\
@@ -68,12 +71,12 @@
 [Soloud Sound Engine](https://solhsa.com/soloud/) - Good open source alternative to FMOD\
 [Go source code](https://github.com/golang/go) - Google's GoLang programming language\
 [Powershell source code](https://github.com/PowerShell/PowerShell) - Powershell Core\
-[EA Copy](https://github.com/electronicarts/EACopy) - Electronic Arts 'Robocopy' clone\
+[EA Copy tool](https://github.com/electronicarts/EACopy) - Electronic Arts 'Robocopy' clone\
 [John the ripper source code](https://github.com/openwall/john) - euhm, never mind ...\
 [Doombuilder](http://www.doombuilder.com/) - Open Source Doom1 editor written in C#\
-[Dark Engine source code](https://archive.org/details/thief-src-libs) - Copy of the Thief2 'Dark engine' leaked source thief_2_service_release.7z\
+[Original Dark Engine source code](https://archive.org/details/thief-src-libs) - Copy of the Thief2 'Dark engine' leaked source thief_2_service_release.7z\
 [VS Code source code](https://github.com/microsoft/vscode) - Visual Studio Code\
-[game extraction toolbox](https://github.com/shawngmc/game-extraction-toolbox) - Amiga game extraction toolbox
+[Game Extraction Toolbox](https://github.com/shawngmc/game-extraction-toolbox) - Amiga game extraction toolbox
 
 
 ### general utilities
