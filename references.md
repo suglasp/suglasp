@@ -107,7 +107,8 @@
 [Dragon Unpacker](https://www.elberethzone.net/dragon-unpacker.html) - Dragon Unpacker game archive tool (open source)\
 [Watto Game Extractor](https://www.watto.org/game_extractor.html) - Watto Game archive tool (open source)\
 [WinUAE](https://www.winuae.net/) - Amiga emulator\
-[FS-UAE](https://fs-uae.net/) - Amiga emulator
+[FS-UAE](https://fs-uae.net/) - Amiga emulator\
+[Aseprite](https://www.aseprite.org/) - Aseprite open source Pixel Editor utility
 
 
 ### reversing tools, docs and security related
