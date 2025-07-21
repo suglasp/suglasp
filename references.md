@@ -143,7 +143,9 @@
 [Neuviemeporte - Reverse F15 SE2 game](https://neuviemeporte.github.io/) - Reverse and recreate F15 SE2\
 [Guided Hacking](https://guidedhacking.com/) - Reversing and hacking community for games\
 [Shikadi Modding Wiki](https://moddingwiki.shikadi.net/wiki/Main_Page) - Shikadi old skool games reversing Wiki\
-[NesDev](https://www.nesdev.org/wiki/Compression) - NES modding Wiki - contains some info about compression used in old games
+[NesDev](https://www.nesdev.org/wiki/Compression) - NES modding Wiki - contains some info about compression used in old games\
+[Hardy's - Ultima Underworld Disassembly Article](https://games-hardy.com/posts/underworld-disassembly/) - Article on disassembly of Ultima Underworld\
+[Lethalguitar - Duke 2 remake blog](https://lethalguitar.wordpress.com/2019/05/28/re-implementing-an-old-dos-game-in-c-17/) - Lethalguitar blog on reversing and recreating Duke Nukem 2
 
 
 ### knowledge and ebooks
