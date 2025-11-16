@@ -161,8 +161,11 @@
 [Zenva](https://academy.zenva.com/) - Zenva Academy, good for learning self paced game development (Godot, Unity, Monogame, Game Design, ...)
 
 
-### SFX asset stores
-[Sonniss](https://sonniss.com/gameaudiogdc) - Sonniss GameAudioGDC royality Free sounds (2015-2023)\
+### GFX & SFX asset stores
+[Sonniss](https://sonniss.com/gameaudiogdc) - Sonniss GameAudioGDC royality Free sounds (2015-2024)\
 [Ovani Sound](https://ovanisound.com/) - Ovani sound high quality sounds for general game design\
 [SoundFX.Studio](https://soundfx.studio/) - SoundFX.studio high quality vehicle and weapon sounds\
-[GDM](https://www.gamedevmarket.net/) - GDM online market for game assets (Sounds, Textures, Sprites, ...)
+[99Sounds](https://99sounds.org/) - Free sound samples\
+[GDM](https://www.gamedevmarket.net/) - GDM online market for game assets (Sounds, Textures, Sprites, ...)\
+[Itch.io](https://itch.io/) - Itch.IO - More then only assets\
+[Craftpix](https://craftpix.net/) - Many sorts of assets
