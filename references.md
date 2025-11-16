@@ -168,4 +168,5 @@
 [99Sounds](https://99sounds.org/) - Free sound samples\
 [GDM](https://www.gamedevmarket.net/) - GDM online market for game assets (Sounds, Textures, Sprites, ...)\
 [Itch.io](https://itch.io/) - Itch.IO - More then only assets\
-[Craftpix](https://craftpix.net/) - Many sorts of assets
+[Craftpix](https://craftpix.net/) - Many sorts of assets\
+[Kenny](https://kenney.nl/assets) - Kenny's well known free assets
