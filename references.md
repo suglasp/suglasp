@@ -6,6 +6,7 @@
 [The Making of Fallout 76](https://youtu.be/gi8PTAJ2Hjs) - NoClip docu\
 [The Making of Dishonored](https://youtu.be/wsQiKKfKxug) - NoClip docu\
 [The Making of Prey](https://youtu.be/kXLxaKrcFZ0) - NoClip docu\
+[Duke Nukem 3D 30th Anniversary Tribute docu](https://youtu.be/70mZq8bUStw?si=E44wW__zy7vgBmK-) - Apogee docu\
 [Deathloop Developer Breaks Down its Design](https://youtu.be/3ra-jkrurR4) - NoClip docu\
 [The Story of Thief & Looking Glass Studios](https://youtu.be/8ZmcbShMFNY) - NoClip docu\
 [How Gloomwood Combines Survival Horror & Immersive Sims](https://youtu.be/BRsWvtJSm0U) - NoClip docu\
