@@ -150,6 +150,10 @@
 [Lethalguitar - Duke 2 remake blog](https://lethalguitar.wordpress.com/2019/05/28/re-implementing-an-old-dos-game-in-c-17/) - Lethalguitar blog on reversing and recreating Duke Nukem 2
 
 
+### LLM's and RAG's
+[Claude Best practices](https://code.claude.com/docs/en/best-practices) - Anthropic 'how to'\
+[Claude Code](https://code.claude.com/docs/en/overview) - Claude Code
+
 ### knowledge and ebooks
 [Refactoring Guru](https://refactoring.guru/) - Refactor code and Design Patterns. Very good books on the topic.\
 [PacktPub](https://www.packtpub.com/) - Packet Publishing. They have a quite cheap subscription service.\
